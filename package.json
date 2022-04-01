@@ -10,6 +10,7 @@
     "categories": [
         "Themes"
     ],
+    "repository": "https://github.com/zrwaite/darkemerald",
     "contributes": {
         "themes": [
             {
