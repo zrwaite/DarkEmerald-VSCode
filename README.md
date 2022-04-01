@@ -1,4 +1,6 @@
 # Dark Emerald
 By Zac Waite
 
-Work in progress black and green theme.
+Black and green vscode theme.
+
+<img src="DarkEmeraldExample.png" width="100%"/>
