@@ -1,0 +1,22 @@
+{
+    "name": "darkemerald",
+    "displayName": "DarkEmerald",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "icon": "DarkEmerald.png",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Emerald",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Emerald-color-theme.json"
+            }
+        ]
+    }
+}
